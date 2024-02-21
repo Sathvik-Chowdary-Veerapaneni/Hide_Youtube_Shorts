@@ -6,7 +6,7 @@ The "Hiding YouTube Shorts Button" script is designed to remove the Shorts butto
 
 ## Instructions:
 
-Install the Tampermonkey extension for your preferred web browser (available for Google Chrome, Mozilla Firefox, Microsoft Edge, etc.).
+Install the** Tampermonkey extension** for your preferred web browser (available for Google Chrome, Mozilla Firefox, Microsoft Edge, etc.).
 Accessing the Script:
 
 Access this code script: (HideYouTubeShortsButton)
